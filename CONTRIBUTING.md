@@ -47,7 +47,7 @@ If you have an idea for a new feature, please open an issue on [GitHub Issues](h
 
 ### Code Contributions
 
-> Please make sure to have created a fork of the original repository. This is where you will work in when contibuting.
+> Please make sure to have cloned the original repository. This is where you will work in when contibuting.
 
 #### Development Workflow
 
